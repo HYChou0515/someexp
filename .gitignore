@@ -9,7 +9,7 @@
 !run-tfboard.sh
 !run-jupyter-lab.sh
 !utils.py
-!partial_diff/
+!bipartite_recon/
 
 
 # Byte-compiled / optimized / DLL files
